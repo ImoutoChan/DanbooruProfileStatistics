@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         DanbooruProfileStatistics
 // @namespace    damnbooru
-// @version      1.1
+// @version      1.2
 // @description  Uploaded and faved posts tags statistics
 // @author       ImoutoChan
 // @match        https://danbooru.donmai.us/profile
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=donmai.us
+// @downloadURL  https://raw.githubusercontent.com/ImoutoChan/DanbooruProfileStatistics/master/DanbooruProfileStatistics.js
+// @updateURL    https://raw.githubusercontent.com/ImoutoChan/DanbooruProfileStatistics/master/DanbooruProfileStatistics.js
 // @grant        none
 // ==/UserScript==
 
