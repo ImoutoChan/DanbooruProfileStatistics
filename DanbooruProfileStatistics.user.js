@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         DanbooruProfileStatistics
 // @namespace    damnbooru
-// @version      1.2
-// @description  Uploaded and faved posts tags statistics
+// @version      1.3
+// @description  Userscript for displaying aggregated tags stats for your favs and uploads
 // @author       ImoutoChan
 // @match        https://danbooru.donmai.us/profile
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=donmai.us
@@ -551,10 +551,6 @@ await (async function() {
     };
 
     showPostsStats(uploadedPostsStats, 'Uploads Tags Statistics', 'user');
-
-    // favorite uploader
-    // loved by approver
-
 })();
 
 
