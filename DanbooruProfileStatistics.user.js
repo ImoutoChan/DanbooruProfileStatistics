@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         DanbooruProfileStatistics
 // @namespace    damnbooru
-// @version      1.3
+// @version      1.4
 // @description  Userscript for displaying aggregated tags stats for your favs and uploads
 // @author       ImoutoChan
 // @match        https://danbooru.donmai.us/profile
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=donmai.us
-// @downloadURL  https://raw.githubusercontent.com/ImoutoChan/DanbooruProfileStatistics/master/DanbooruProfileStatistics.js
-// @updateURL    https://raw.githubusercontent.com/ImoutoChan/DanbooruProfileStatistics/master/DanbooruProfileStatistics.js
+// @downloadURL  https://github.com/ImoutoChan/DanbooruProfileStatistics/raw/master/DanbooruProfileStatistics.user.js
+// @updateURL    https://github.com/ImoutoChan/DanbooruProfileStatistics/raw/master/DanbooruProfileStatistics.user.js
 // @grant        none
 // ==/UserScript==
 
